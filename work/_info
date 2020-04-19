@@ -1,0 +1,49 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/examples
+Ehalf_adder
+Z1 w1587334012
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Modeltech_pe_edu_10.4a/examples/halfadder.vhd
+Z5 FC:/Modeltech_pe_edu_10.4a/examples/halfadder.vhd
+l0
+L3
+VG[SNJ9f^^be95PbIg?Vi?1
+!s100 LL=TTQCoIJie_akVa]b<@2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1587334085
+!i10b 1
+Z8 !s108 1587334085.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/halfadder.vhd|
+Z10 !s107 C:/Modeltech_pe_edu_10.4a/examples/halfadder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavioral
+R2
+R3
+DEx4 work 10 half_adder 0 22 G[SNJ9f^^be95PbIg?Vi?1
+l11
+L10
+V7BFL6ll]EVA[cgoc=UVLg3
+!s100 7@@fczmgRZ8`b@<759Fij2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
