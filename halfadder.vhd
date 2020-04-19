@@ -1,8 +1,8 @@
 Library IEEE;
 Use IEEE.STD_LOGIC_1164.ALL;
 Entity HALF_ADDER is
-          Port ( giris1 : in  STD_LOGIC;
-                 giris2 : in  STD_LOGIC;
+          Port ( giris1 :  in  STD_LOGIC;
+                 giris2 :  in  STD_LOGIC;
                  toplam : out  STD_LOGIC;
                  elde : out  STD_LOGIC);
 End HALF_ADDER;

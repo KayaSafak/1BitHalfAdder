@@ -1,14 +1,14 @@
-library IEEE;
-use IEEE.STD_LOGIC_1164.ALL;
-entity HALF_ADDER is
-          Port ( A              :  in  STD_LOGIC;
-                     B              :  in  STD_LOGIC;
-                     SUM        : out  STD_LOGIC;
-                     CARRY   : out  STD_LOGIC);
-end HALF_ADDER;
+Library IEEE;
+Use IEEE.STD_LOGIC_1164.ALL;
+Entity HALF_ADDER is
+          Port ( giris1 :  in  STD_LOGIC;
+                 giris2 :  in  STD_LOGIC;
+                 toplam : out  STD_LOGIC;
+                 elde : out  STD_LOGIC);
+End HALF_ADDER;
 
-architecture Behavioral of HALF_ADDER is
-begin
-    SUM       <= A XOR B;
-    CARRY  <= A AND B;
-end Behavioral;
+Architecture Behavioral of HALF_ADDER is
+Begin
+    toplam <= giris1 XOR giris2;
+    elde <= giris1 AND giris2v;
+End Behavioral;
